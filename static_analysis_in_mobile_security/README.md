@@ -17,3 +17,8 @@ Content-Type: application/json
 
 Task2
 com-sources-holberton-task3
+
+Task3
+find . -name "libtask4native.so"
+cd resources/lib/arm64-v8a/
+strings libtask4native.so | grep -C 10 "validateUserInput"
