@@ -1,1 +1,1 @@
-Holberton{first_exercise_on_your_static_analysis}
+Holberton{Good_job_on_your_first_static_analysis_exercise}
